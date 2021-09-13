@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!-- global -->
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="item_value_animal">Animal</string>
+    <string name="item_value_herd">Rodeo</string>
+    <string name="item_value_alert">Alerta</string>
+    <string name="search">Buscar</string>
+
+    <!-- cow fragment -->
+    <string name="animal_id">Animal id:</string>
+    <string name="animal_id_title">Animal:</string>
+    <string name="herd_id_title">Rodeo:</string>
+    <string name="electronic_id">Electronic:</string>
+    <string name="fecha_nacimiento">Fecha de nacimiento:</string>
+    <string name="ultima_fecha_parto">Ultima fecha de parto:</string>
+    <string name="cantidad_partos">Cantidad de partos:</string>
+    <string name="peso">Peso:</string>
+    <string name="ultimo_bcs">Ultimo bcs:</string>
+    <string name="information">INFORMACIÓN</string>
+
+    <string name="associate">Asociar un rodeo</string>
+    <string name="add_animal">Agregar</string>
+
+    <!-- associate herd dialog -->
+    <string name="associate_dialog_title">Ingresa el rodeo al que desea asociar</string>
+
+    <!-- add cow dialog -->
+    <string name="add_animal_title">Completa los datos del animal que desea cargar</string>
+
+    <!-- herd fragment -->
+    <string name="herd_id">Rodeo id:</string>
+    <string name="location">Localización:</string>
+    <string name="bcs_promedio">Bcs promedio:</string>
+
+    <!-- Alert fragment -->
+    <string name="config_alert">CONFIGURAR ALERTA</string>
+    <string name="btn_title">Crear alerta</string>
+</resources>

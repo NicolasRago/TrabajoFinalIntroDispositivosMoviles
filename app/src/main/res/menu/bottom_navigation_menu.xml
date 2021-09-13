@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/cowFragment"
+        android:enabled="true"
+        android:title="@string/item_value_animal" />
+
+    <item
+        android:id="@+id/herdFragment"
+        android:enabled="true"
+        android:title="@string/item_value_herd" />
+</menu>
